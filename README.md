@@ -41,7 +41,7 @@
 
 ## 📫 Connect With Me
 📧 **Email:** anujpratapsingh567@gmail.com  
-💼 **LinkedIn:** *[https://www.linkedin.com/in/krishna-dubey-b4450b348](https://www.linkedin.com/in/anuj-pratap-singh-99a2581a9/)*  
+💼 **LinkedIn:** *[https://www.linkedin.com/in/anuj-pratap-singh-99a2581a9/](https://www.linkedin.com/in/anuj-pratap-singh-99a2581a9/)*  
 
 ---
 
