@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Dubey;B.Tech+CSE+%7C+AI+Enthusiast+%7C+Content+Automation+Explorer;Passionate+about+AI%2C+Automation%2C+and+Full+Stack+Development;Always+learning+%F0%9F%92%AA%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Anuj+Pratap+Singh;B.Tech+CSE+%7C+AI+Enthusiast+%7C+Content+Automation+Explorer;Passionate+about+AI%2C+Automation%2C+and+Full+Stack+Development;Always+learning+%F0%9F%92%AA%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Anuj Pratap SIngh
 
@@ -25,18 +25,12 @@
 
 ## 📌 Featured Projects
 
-- 🚀 **[Social Media Caption Generator](https://github.com/krishna-024/social-media-post-and-caption-generator-krishna-dubey)**  
-  AI-powered tool for generating short, engaging captions with hashtags & emojis.  
 
-- 📊 **[AI Resume & Cover Letter Generator](#)**  
-  Automated resume & cover letter creation using Generative AI.  
-
----
 
 ## 📊 GitHub Stats
 
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna-024&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishna-024&theme=tokyonight)  
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamanujpratapsingh&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamanujpratapsingh&theme=tokyonight)  
 
 ---
 
@@ -55,8 +49,8 @@
 ---
 
 ## 📫 Connect With Me
-📧 **Email:** krishnadubey024@gmail.com  
-💼 **LinkedIn:** *https://www.linkedin.com/in/krishna-dubey-b4450b348*  
+📧 **Email:** anujpratapsingh567@gmail.com  
+💼 **LinkedIn:** *[https://www.linkedin.com/in/krishna-dubey-b4450b348](https://www.linkedin.com/in/anuj-pratap-singh-99a2581a9/)*  
 
 ---
 
